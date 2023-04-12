@@ -1,6 +1,7 @@
 # DL-AAI-project-A.Y.-2021-2022
 Project on World Models for the Deep Learning &amp; Applied Artificial Intelligence course A.Y. 2021/2022.
 
+- **Report.pdf**: Project report
 - **create_dataset.ipynb**: code to run the rollouts of the PROCGEN game and save the informations to create the main dataset used by the VAE and MDRNN models.
 - **VAE (V).ipynb**: contains the definition and train of the VAE model.
 - **MDNRNN (M).ipynb**: contains the definition and train of the MDNRNN model.
